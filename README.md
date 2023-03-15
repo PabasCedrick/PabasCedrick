@@ -1,4 +1,4 @@
-### Hi there 👋
+### Laging gising 24/7👽 - CedDikaMatiis -
 
 <!--
 **PabasCedrick/PabasCedrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t1.15752-9/332745077_599516618705305_1068987252878213755_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Dw4eD3p2KOsAX_5hMfC&_nc_ht=scontent.fmnl9-4.fna&oh=03_AdSS_KqjGhUqzEo3Bko8UbSO8Bxc1EdkmND-YxdRF7nAbg&oe=64393E71" width="400" height="300"/>
+</div>
